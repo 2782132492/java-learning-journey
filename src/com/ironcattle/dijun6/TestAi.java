@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
     AI初体验\
  */
-public class Use_AI {
+public class TestAi {
     public static void main(String[] args) {
         // 生成一个随机的七位数
         int a = (int)(Math.random()*10000000);
