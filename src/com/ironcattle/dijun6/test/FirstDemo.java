@@ -1,4 +1,4 @@
-package com.ironcattle.dijun6;
+package com.ironcattle.dijun6.test;
 /*
     class: 定义一个类
     class_name: 类名

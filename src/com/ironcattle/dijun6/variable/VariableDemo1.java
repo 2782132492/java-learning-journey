@@ -1,4 +1,4 @@
-package com.ironcattle.dijun6;
+package com.ironcattle.dijun6.variable;
 
 public class VariableDemo1 {
     public static void main(String[] args) {

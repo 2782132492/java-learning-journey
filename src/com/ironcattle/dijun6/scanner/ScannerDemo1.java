@@ -1,9 +1,9 @@
-package com.ironcattle.dijun6;
+package com.ironcattle.dijun6.scanner;
 
 // 引入Scanner类
 import java.util.Scanner;
 
-public class ScannerDemo {
+public class ScannerDemo1 {
     public static void main(String[] args) {
         // 创建一个Scanner对象
         Scanner sc = new Scanner(System.in);

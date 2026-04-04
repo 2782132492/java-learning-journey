@@ -1,4 +1,4 @@
-package com.ironcattle.dijun6;
+package com.ironcattle.dijun6.variable;
 
 /*
     街头霸王练习

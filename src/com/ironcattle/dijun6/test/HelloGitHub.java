@@ -1,4 +1,4 @@
-package com.ironcattle.dijun6;
+package com.ironcattle.dijun6.test;
 
 public class HelloGitHub {
     public static void main(String[] args) {
